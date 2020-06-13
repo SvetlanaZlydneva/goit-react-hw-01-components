@@ -1,0 +1,19 @@
+body {
+  background-color: #e7ecf2;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  list-style-type: none;
+}
+* {
+  outline: 1px solid red;
+}
