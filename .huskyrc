@@ -1,5 +1,8 @@
 {
+  "scripts": {
+    "lint": "lint-staged"
+  },
   "hooks": {
-    "pre-commit": "lint-staged"
+    "pre-commit": "lint"
   }
 }
