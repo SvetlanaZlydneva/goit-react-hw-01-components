@@ -24,7 +24,3 @@
 .tbody tr:nth-child(2n) {
   background-color: #ecf2f3;
 }
-
-.type::first-letter {
-  text-transform: uppercase;
-}
